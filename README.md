@@ -1,7 +1,7 @@
 # Blood_Link
-ALX PORTFOLIO PROJECT - A blood Donation Web Application
+A blood Donation Web Application - ALX PORTFOLIO PROJECT
 
-This is the first version of this project. second version is at [Blood_Link V2](https://github.com/James0711/Blood_Link_v2) 
+This is the first version of this project. second version is at [Blood_Link v2](https://github.com/James0711/Blood_Link_v2) 
 
 A web application that connects blood donors to doctors and hospitals to provide an easy and quick blood donation process and also helps reach out to blood donors in the event of an emergency.
 
