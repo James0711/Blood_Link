@@ -7,15 +7,6 @@ A web application that connects blood donors to doctors and hospitals to provide
 
 ---
 
-## Technologies
-The following is a list of technologies required to complete this project
-* Django framework
-* SQLite database
-* Bootstrap for dynamic page development
-* Python programming language
-* HTML
-* CSS
-
 ## Infrastructure
 The infrastructure for this application will include the following.
 ### Application server
@@ -24,3 +15,12 @@ The application will require WSGI or ASGI as the application server because it w
 We shall require the Apache web server to handle all the http requests to the application and also act as reverse proxy for the application
 ### Database
 The database of choice for this application is the SQLite database which makes development easy for a django based project since all the configurations are already created from the django boilerplate code.
+
+## Technologies
+The following is a list of technologies required to complete this project
+* Django framework
+* SQLite database
+* Bootstrap for dynamic page development
+* Python programming language
+* HTML
+* CSS
