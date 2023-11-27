@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Raleway:wght@200&display=swap');
+
+body{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+input{
+    width: 500px;
+    padding: 10px;
+    height: 40px;
+    margin: 8px 0;
+    border: none;
+    background-color: azure;
+    border: 1px solid #ccc;
+}
+.buttons{
+    padding: 5px;
+    margin: 0.5rem;
+}
+
+.buttons #login{
+    margin-bottom: 1.5rem;
+}
+
+/* button{
+    width: 200px;
+    padding: 10px;
+    height: 40px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 15px;
+    background-color: #4CAF50;
+    color: white;
+} */
+.blocks{
+    display: none;
+}
+#login{
+    display: block;
+}

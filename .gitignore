@@ -1,0 +1,5 @@
+db.sqlite3
+main/__pycache__/
+main/migrations/__pycache__/
+donate/__pycache__/
+password
