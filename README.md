@@ -24,3 +24,7 @@ The following is a list of technologies required to complete this project
 * Python programming language
 * HTML
 * CSS
+# Authors
+This file lists all individuals having contributed content to the repository.
+*Eche James <jengreat94@gmail.com>
+*Iwegbu Vivian <vivianiwegbu@gmail.com>
